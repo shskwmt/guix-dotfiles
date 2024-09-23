@@ -1,0 +1,9 @@
+* GUIX dotfiles
+
+This is my dotfiles for Guix.
+
+** Install
+
+#+BEGIN_SRC bash
+  make home/reconfigure
+#+END_SRC
