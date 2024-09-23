@@ -6,8 +6,10 @@
   (map specification->package
        (list "make"
 	     "curl"
+	     "jq"
 	     "ripgrep"
 	     "openssh"
 	     "git"
 	     "docker-cli"
-	     "docker")))
+	     "docker"
+	     "google-chrome-stable")))
